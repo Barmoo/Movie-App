@@ -37,7 +37,19 @@
     width: 70%;
     border-radius: 20px;
     padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    border: none;
+    box-shadow: black;
+
 }
+
+.first-butt:hover{
+background-color: blue;
+color: white;
+box-shadow: black;
+}
+
 .resultstyle{
     width: 100%;
     background-color: black;
